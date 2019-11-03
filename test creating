@@ -1,2 +1,2 @@
-get gethub
-git
+get config --global usr.name "super4s"
+git config --global usr.name "969244458@qq.com"
