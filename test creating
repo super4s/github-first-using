@@ -1,2 +1,2 @@
 get config --global usr.name 'super4s'
-git config --global usr.name '969244458@qq.com'
+git config --global usr.email '969244458@qq.com'
